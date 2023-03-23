@@ -1,4 +1,4 @@
 # currency-converter
 
-#Demo
+# Demo
 https://beataxamb.github.io/currency-converter/
