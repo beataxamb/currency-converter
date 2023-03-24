@@ -1,0 +1,9 @@
+.body {
+    font-family: 'Montserrat', sans-serif;
+    max-width: 750px;
+    margin: 0 auto;
+    padding: 20px 20px;
+    background-image: url(https://raw.githubusercontent.com/beataxamb/currency-converter/main/images/background-dollar.jpeg);
+    background-size: 80px;
+    background-repeat: space;
+}
