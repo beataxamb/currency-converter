@@ -19,6 +19,7 @@
     const updateResultText = (currency, result) => {
         const resultElement = document.querySelector(".js-result");
         const currencyName = document.querySelector(".js-currencyName");
+        
         currencyName.innerText = ` ${currency}`;
         resultElement.innerHTML = result.toFixed(2);
     }
